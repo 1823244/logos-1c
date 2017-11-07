@@ -1,0 +1,10 @@
+build/
+out/
+
+Smoke\.mxl
+
+allure-report/
+
+\.scannerwork/
+
+src/cf/ConfigDumpInfo\.xml
