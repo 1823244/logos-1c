@@ -8,3 +8,4 @@ allure-report/
 \.scannerwork/
 
 src/cf/ConfigDumpInfo\.xml
+*.epf
