@@ -116,7 +116,7 @@
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
 			<ModalityUseMode>DontUse</ModalityUseMode>
-			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>UseWithWarnings</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_10</CompatibilityMode>
 			<DefaultConstantsForm/>
